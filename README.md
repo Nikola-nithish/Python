@@ -1,2 +1,2 @@
 # Python
-Here Is The Python Codes From Begginer to Advanced 
+Here are The Python Codes From Begginer to Advanced 
